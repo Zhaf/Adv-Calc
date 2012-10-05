@@ -330,10 +330,10 @@ void welc_scr()
   {
      clrscr();
      cout<<" \t\t***WELCOME TO MY MINI-CALCULATOR***\n\n";
-     cout<<"\tCREATOR - UDIT GUPTA, B.TECH-I YEAR(EC)\n\n\n ";
+     cout<<"\tCREATOR -  YEAR(EC)\n\n\n ";
      cout<<"\nFOR THE PROPER FUNCTIONING OF CALCULATOR ,ENTER CORRECT VALUES\n\n ";
      cout<<"\n\n GUIDANCE -i) Do not Enter any MATHEMATICAL OPERATOR in the Program\n\n\t   ii)Check that the CAPS LOCK is off\n\n ";
-     cout<<"FOR FEEDBACK - eMAIL ID :- udit2008.gupta@yahoo.com \n\n ";
+     cout<<"FOR FEEDBACK - eMAIL ID :-  \n\n ";
      cout<<"\n\t PRESS ANY KEY TO CONTINUE -  ";
      getch();
 
